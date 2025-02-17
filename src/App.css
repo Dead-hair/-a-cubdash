@@ -1,0 +1,15 @@
+.game-area {
+  border: 2px solid black;
+  margin: 0 auto;
+  position: relative;
+  overflow: hidden;
+  background-color: lightgray;
+}
+
+.player {
+  position: absolute;
+}
+
+.obstacle {
+  position: absolute;
+}
